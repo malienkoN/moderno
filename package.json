@@ -9,8 +9,7 @@
     "gulp-plumber": "1.2.1",
     "gulp-postcss": "8.0.0",
     "gulp-sass": "4.1.0",
-    "gulp-sourcemaps": "2.6.5",
-    "stylelint": "13.6.1"
+    "gulp-sourcemaps": "2.6.5"
   },
   "scripts": {
     "editorconfig": "editorconfig-cli",
